@@ -1,5 +1,5 @@
 
-📊 Case Study 5: Trainer Statistics
+```📊 Case Study 5: Trainer Statistics
 
 📖 Project Overview
 This project analyzes trainer allocation and demand forecasting at ARICH, where trainers have diverse skill sets and backgrounds. Some trainers are in-house employees, while others are consultants.  
@@ -14,7 +14,7 @@ The objective is to:
 
 🗂️ Repository Structure
 
-'''project-trainer-statistics/
+project-trainer-statistics/
 │
 ├── docs/
 │   ├── CASE STUDY 5 SOUMYA S.docx       
@@ -30,7 +30,7 @@ The objective is to:
 ├── outputs/
 │   └── images/
 │
-└── README.md'''
+└── README.md
 
 
 
@@ -93,8 +93,9 @@ The project follows the Data Science Lifecycle:
    
 4. Outputs (charts & graphs) will be saved in:
    
-   outputs/images/
+   outputs/images/```
    
+
 
 
 
