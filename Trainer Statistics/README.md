@@ -17,26 +17,20 @@ The objective is to:
 project-trainer-statistics/
 │
 ├── docs/
-│   ├── CASE STUDY 5 SOUMYA S.docx       # Case study write-up
-
-│   ├── Trainer stats.pdf                # Case study description & instructions
-
-│   └── Case Study 5 -Trainer Statistics.pptx   # Presentation slides
-
+│   ├── CASE STUDY 5 SOUMYA S.docx       
+│   ├── Trainer stats.pdf                
+│   └── Case Study 5 -Trainer Statistics.pptx  
 │
 ├── data/
-│   └── trainers.xlsx                    # Input dataset (Trainer, Companies, Allocation)
-
+│   └── trainers.xlsx
 │
 ├── src/
-│   └── analysis.py                      # Python script for data analysis & visualization
-
+│   └── project.py
 │
 ├── outputs/
-│   └── images/                          # Visualizations & charts generated
-
+│   └── images/
 │
-└── README.md                            # Project documentation
+└── README.md
 
 
 
@@ -67,10 +61,10 @@ The project follows the Data Science Lifecycle:
 🛠️ Technology Stack
 - Python  
 - Libraries:  
-  - `pandas`, `numpy` – Data manipulation  
-  - `matplotlib`, `seaborn` – Visualization  
-  - `scikit-learn` – Machine learning models  
-  - `scipy` – Statistical analysis  
+  - pandas, numpy – Data manipulation  
+  - matplotlib, seaborn – Visualization  
+  - scikit-learn – Machine learning models  
+  - scipy – Statistical analysis  
 
 
 
@@ -101,6 +95,7 @@ The project follows the Data Science Lifecycle:
    
    outputs/images/
    
+
 
 
 
