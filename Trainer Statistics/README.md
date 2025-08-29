@@ -18,17 +18,23 @@ project-trainer-statistics/
 │
 ├── docs/
 │   ├── CASE STUDY 5 SOUMYA S.docx       # Case study write-up
+
 │   ├── Trainer stats.pdf                # Case study description & instructions
+
 │   └── Case Study 5 -Trainer Statistics.pptx   # Presentation slides
+
 │
 ├── data/
 │   └── trainers.xlsx                    # Input dataset (Trainer, Companies, Allocation)
+
 │
 ├── src/
 │   └── analysis.py                      # Python script for data analysis & visualization
+
 │
 ├── outputs/
 │   └── images/                          # Visualizations & charts generated
+
 │
 └── README.md                            # Project documentation
 
@@ -95,6 +101,7 @@ The project follows the Data Science Lifecycle:
    
    outputs/images/
    
+
 
 
 
