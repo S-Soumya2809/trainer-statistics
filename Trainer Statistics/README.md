@@ -14,7 +14,7 @@ The objective is to:
 
 🗂️ Repository Structure
 
-project-trainer-statistics/
+'''project-trainer-statistics/
 │
 ├── docs/
 │   ├── CASE STUDY 5 SOUMYA S.docx       
@@ -30,7 +30,7 @@ project-trainer-statistics/
 ├── outputs/
 │   └── images/
 │
-└── README.md
+└── README.md'''
 
 
 
@@ -95,6 +95,7 @@ The project follows the Data Science Lifecycle:
    
    outputs/images/
    
+
 
 
 
