@@ -17,20 +17,20 @@ The objective is to:
 project-trainer-statistics/
 │
 ├── docs/
-│   ├── CASE STUDY 5 SOUMYA S.docx       
-│   ├── Trainer stats.pdf                
-│   └── Case Study 5 -Trainer Statistics.pptx  
+│ ├── CASE STUDY 5 SOUMYA S.docx # Case study write-up
+│ ├── Trainer stats.pdf # Case study description & instructions
+│ └── Case Study 5 -Trainer Statistics.pptx # Presentation slides
 │
 ├── data/
-│   └── trainers.xlsx
+│ └── trainers.xlsx # Input dataset (Trainer, Companies, Allocation)
 │
 ├── src/
-│   └── project.py
+│ └── analysis.py # Python script for data analysis & visualization
 │
 ├── outputs/
-│   └── images/
+│ └── images/ # Visualizations & charts generated
 │
-└── README.md
+└── README.md # Project documentation
 
 
 
@@ -93,8 +93,10 @@ The project follows the Data Science Lifecycle:
    
 4. Outputs (charts & graphs) will be saved in:
    
-   outputs/images/```
+   outputs/images/
+```
    
+
 
 
 
